@@ -53,10 +53,6 @@ function Footer() {
           </div>
           <div className="item">
             <h2>More From Viverr</h2>
-            <span>Viverr Business</span>
-            <span>Viverr Pro</span>
-            <span>Viverr Logo Maker</span>
-            <span>Viverr Guides</span>
             <span>Get Inspired</span>
             <span>Viverr Select</span>
             <span>ClearVoice</span>
@@ -68,7 +64,7 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>viverr</h2>
+            <h2>Viverr</h2>
             <span>© Viverr International Ltd. 2023</span>
           </div>
           <div className="right">
